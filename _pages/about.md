@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "About Me"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 I am an MSc student in the [School of Computing Science](https://www.sfu.ca/computing.html) at Simon Fraser University, supervised by Prof. SiQi Zhou. I received my bachelor's degree in Statistics from the University of British Columbia.
