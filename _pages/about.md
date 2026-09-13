@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an MSc student in the [School of Computing Science](https://www.sfu.ca/computing.html) at Simon Fraser University, supervised by [Prof. SiQi Zhou](https://siqizhou.com/). I received my bachelor's degree in Statistics from the [University of British Columbia](https://www.ubc.ca/).
+I am an MSc student in the [School of Computing Science at Simon Fraser University](https://www.sfu.ca/computing.html), supervised by [Prof. SiQi Zhou](https://siqizhou.com/). I received my bachelor's degree in Statistics from the [University of British Columbia](https://www.ubc.ca/).
 
 My research interests lie in **uncertainty, safety, and reliability in robotics**. I am particularly interested in understanding when a robot's perception or environment representation may be unreliable, how this uncertainty should influence its subsequent actions, and how robotic systems can be evaluated more rigorously beyond overall task success rates.
 
