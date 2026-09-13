@@ -17,6 +17,6 @@ My current work explores how semantic environment representations can be used to
 
 I am happy to connect with students and researchers interested in robot perception, semantic and 3D environment representations, and the safety and evaluation of robotic systems.
 
-SFU undergraduate students interested in pursuing a Special Research Project through CMPT 415 or CMPT 416 are especially welcome to reach out about potential projects within Prof. Zhou's research group. Depending on project availability, I may help mentor these projects under her supervision.
+SFU undergraduate students interested in pursuing a Special Research Project through CMPT 415 or CMPT 416 are especially welcome to reach out about potential projects within Prof. Zhou's lab. Depending on project availability, I may help mentor these projects under her supervision.
 
 If you are interested, please email me at [pla113@sfu.ca](mailto:pla113@sfu.ca) with a brief introduction and a description of your interests.
