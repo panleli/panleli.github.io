@@ -23,7 +23,7 @@ repository               : "panleli/panleli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Panle (Richard) Li"
   pronouns         : "he/him"  
   bio              : "MSc Student in Computing Science"
