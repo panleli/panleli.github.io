@@ -21,5 +21,5 @@ I am happy to connect with students and researchers interested in robotics, robo
 
 Our lab actively mentors motivated undergraduate students interested in gaining hands-on experience evaluating machine learning models or working with physical robot systems. SFU undergraduate students may also pursue suitable projects through CMPT 415/416. Depending on project fit and availability, I may serve as a mentor under Prof. Zhou’s supervision.
 
-If you are interested, please email me at [pla113@sfu.ca](mailto:pla113@sfu.ca) with a brief introduction, a description of your interests, your transcript, and your resume.
+If you are interested, please email me at [pla113@sfu.ca](mailto:pla113@sfu.ca) with a brief introduction, a description of your interests, and your resume.
 
